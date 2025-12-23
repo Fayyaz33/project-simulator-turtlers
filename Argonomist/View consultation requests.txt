@@ -1,0 +1,1 @@
+As an agronomist, I want to view consultation requests. So that, I can carry out my pending consultation that I am assigned to.

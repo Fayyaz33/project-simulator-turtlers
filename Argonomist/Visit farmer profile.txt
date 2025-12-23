@@ -1,0 +1,1 @@
+As an argonomist ,I want to Visit farmer profiles. So that to assess farmers fields and carry out evaluations.
