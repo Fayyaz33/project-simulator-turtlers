@@ -1,0 +1,2 @@
+As an admin, I want to verify and approve agronomist profiles so that only qualified professionals can provide advice
+

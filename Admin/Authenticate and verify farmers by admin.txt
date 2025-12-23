@@ -1,0 +1,1 @@
+As an admin, I want to authenticate and verify farmers, so that only legitimate farmers are approved
